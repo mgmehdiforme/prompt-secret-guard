@@ -1,0 +1,12 @@
+{
+  "name": "prompt-secret-guard",
+  "owner": { "name": "Mehdi Golzari" },
+  "plugins": [
+    {
+      "name": "prompt-secret-guard",
+      "source": "./",
+      "description": "Keep secrets out of LLM prompts: blocking hooks, a 7-point project scanner, an auditor agent and fix recipes.",
+      "version": "1.0.0"
+    }
+  ]
+}

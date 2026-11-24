@@ -1,0 +1,10 @@
+{
+  "name": "prompt-secret-guard",
+  "version": "1.0.0",
+  "description": "Keep secrets out of LLM prompts: hooks that stop Claude Code reading .env and credential files or pasting keys, a project scanner for the 7-point secrets-in-prompts checklist, an auditor agent, and fix recipes.",
+  "author": { "name": "Mehdi Golzari" },
+  "homepage": "https://github.com/mgmehdiforme/prompt-secret-guard",
+  "repository": "https://github.com/mgmehdiforme/prompt-secret-guard",
+  "license": "MIT",
+  "keywords": ["security", "secrets", "prompts", "llm", "ai-agents", "claude-code", "redaction", "canary"]
+}
